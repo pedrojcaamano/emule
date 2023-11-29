@@ -3,9 +3,7 @@ DESCARGA E INSTALACIÓN:
 
 PERMISOS FIREWALL Y APERTURA PUERTOS:
 - Tras instalarlo, al abrirlo por primera vez, daremos permisos de acceso a través del Firewall en caso de que lo tengamos activado.
-- En "Preferencias/Conexión" pondremos el puerto 4662 TCP y 4672 UDP y nos aseguramos de que al hacer clic en "Comprobar Puertos" el resultado es satisfactorio. Puede que tengamos que acceder a la IP de nuestro router y abrir los puertos (  
-
- • Configurar tu router paso a paso www....  ), accediendo a la configuración del mismo.
+- En "Preferencias/Conexión" pondremos el puerto 4662 TCP y 4672 UDP y nos aseguramos de que al hacer clic en "Comprobar Puertos" el resultado es satisfactorio. Puede que tengamos que acceder a la IP de nuestro router y abrir los puertos.
 
 CONFIGURACIÓN:
 - Para mantener un a lista fiable y actualizada de servidores abrimos nuestro eMule, y pinchamos sobre "Preferencias/Servidor".
