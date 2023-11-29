@@ -8,7 +8,7 @@ PERMISOS FIREWALL Y APERTURA PUERTOS:
 CONFIGURACIÓN:
 - Para mantener un a lista fiable y actualizada de servidores abrimos nuestro eMule, y pinchamos sobre "Preferencias/Servidor".
 - Activamos "Auto-actualizar lista de servidores al iniciar" y "Conexión segura".
-- Clic sobre "Editar" y pegamos la URL http://sites.google.com/site/ircemule.... (Si falla, usar http://emuling.net23.net/server.met)
+- Clic sobre "Editar" y pegamos la URL http://emuling.gitlab.io/server.met
 - Si quieres que se conecte a algún servidor en especial, pincha con el botón derecho sobre él y marca "Alta Prioridad".
 - Por último en "Preferencias/Conexión" marca la casilla "Reconectar al perder la conexión".
 - Por seguridad es recomendable usar un filtro de IP actualizado, para ello vamos a la pestaña "Preferencias/Seguridad", marcamos la casilla "Filtrar servidores", en la casilla inferior pegamos la URL http://sites.google.com/site/ircemule... y "Cargar" (Si falla usar http://emuling.net23.net/ipfilter.zip)
